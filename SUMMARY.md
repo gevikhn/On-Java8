@@ -9,7 +9,7 @@
 ### [简介](book/00-Introduction.md)
 
 ### [第一章 对象的概念](book/01-What-is-an-Object.md)
-  * [抽象](book/01-What-is-an-Object.md#抽象)
+  * [抽象](book/01-What-is-an-Object.md)
   * [接口](book/01-What-is-an-Object.md#接口)
   * [服务提供](book/01-What-is-an-Object.md#服务提供)
   * [封装](book/01-What-is-an-Object.md#封装)
